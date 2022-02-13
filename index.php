@@ -9,13 +9,13 @@
 </head>
 <body>
     <div class="nav">
-        <h3 class="titulo principal bordatexto">Avalie Seu Professor</h3>
+        <h3 class="titulo principal bordatexto">Avalie Meu Professor</h3>
         <button class="expandir principal">Votar</button>
     </div>
     <div class="pesquisa centro">
         <h1 class="centro principal bordatexto">Procure o Professor</h1> <br>
-        <input class="ipesquisa">
-
+        <input class="ipesquisa"><br><br>
+        <button class="procurar principal">Procurar</button>
     </div>
     <div class="divisao preto centro">
         <h2 class="respeito">Sejam Respeitosos!</h2>
@@ -29,7 +29,7 @@
     </div>
     <footer class="footer">
         <img src="logo.png" alt="logo" width="150px" class="logo">
-        <h5>© 2022 Augusto Milão. All Right Reserved</h5>
+        <h5 class="principal">© 2022 Augusto Milão. All Right Reserved</h5>
     </footer>
 </body>
 </html>
