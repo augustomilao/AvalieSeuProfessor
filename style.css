@@ -1,0 +1,59 @@
+/* Reset */
+* {margin: 0; padding: 0;box-sizing: border-box}
+
+/* Cores */
+
+.principal{color: aliceblue;}
+.preto{color: black}
+
+/* Alinhamentos */
+
+.centro{text-align: center;}
+
+body{
+    background-color: grey;
+}
+
+.nav{
+    height: 80px;
+    padding: 30px;
+    width: 100%;
+    background-color: rgb(17, 94, 17);
+    text-align: center;
+}
+
+.titulo{
+    float: left;
+    width: 70%;
+}
+.expandir{
+    height: 20px;
+    float: right;
+    width: 25%;
+    border-radius: 9px;
+    background-color: #4CAF50;
+    border: 2px solid #4CAF50; 
+}
+/* .expandir:hover{
+    background-color: red;
+} */
+.expandir::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.explicacao{
+    padding: 30px 0;
+    width: 100%;
+}
+.objetivo{
+    padding: 0 10%;
+}
+.divisao{
+    height: 80px;
+    width: 100%;
+    background-color: aliceblue;
+}
+.respeito{
+    padding: 25px 0;
+}
