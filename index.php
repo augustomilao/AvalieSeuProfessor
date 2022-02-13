@@ -14,7 +14,7 @@
     </div>
     <div class="pesquisa centro">
         <h1 class="centro principal bordatexto">Procure o Professor</h1> <br>
-        <input>
+        <input class="ipesquisa">
 
     </div>
     <div class="divisao preto centro">
