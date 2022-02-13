@@ -24,5 +24,12 @@
         <h1 class="principal centro bordatexto">Nosso Objetivo</h1><br>
         <h3 class="principal centro objetivo">Após perceber que a maioria dos alunos faziam uma lista dos professores favoritos para cada matéria que ainda seriam feitas, vimos que poderiamos ajudar eles nessa tarefa, juntando informações de seus alunos anteriores.</h3>
     </div>
+    <div class="divisao2 preto centro">
+        <h2 class="medo">Devo ter medo do que eu escrevo?</h2>
+    </div>
+    <footer class="footer">
+        <img src="logo.png" alt="logo" width="150px" class="logo">
+        <h5>© 2022 Augusto Milão. All Right Reserved</h5>
+    </footer>
 </body>
 </html>
